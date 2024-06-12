@@ -1,6 +1,7 @@
+---
 layout: post
 title: "A Technical Implementation of a Common Vague Goal"
-
+---
 A common goal of the current global policy actions is encouraging the ethical use of AI. One way that could be implemented is by creating an organisation to whom risky AI developments get reported.
 
 [image]
