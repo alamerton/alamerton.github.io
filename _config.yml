@@ -27,10 +27,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+gems:
+  - jekyll-assets
+  - jekyll-seo-tag
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-assets
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
