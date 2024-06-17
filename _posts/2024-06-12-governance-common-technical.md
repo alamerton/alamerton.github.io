@@ -4,7 +4,7 @@ title: "A Technical Implementation of a Common Vague Goal"
 ---
 A common goal of the current global policy actions is encouraging the ethical use of AI. One way that could be implemented is by creating an organisation to whom risky AI developments get reported.
 
-![Diagram showing how the organisation proposed might look](assets/diagram_1.png)
+![Diagram showing how the organisation proposed might look](assets/Governance Whistleblowing Explainer.png)
 
 There are suggestions to AI auditing companies, but none of these have suggested creating an intermediary audit.
 ## Intro
