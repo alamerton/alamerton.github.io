@@ -4,14 +4,14 @@ title: "One Intervention for the Development of AI Risk"
 ---
 A common goal of the current global policy actions is encouraging the ethical use of AI. One way that could be implemented is by creating an organisation to whom risky AI developments get reported.
 
-![Diagram showing how the organisation proposed might look](assets/images/Governance Whistleblowing Explainer.png)
+![Diagram showing how the organisation proposed might look](/assets/images/Governance Whistleblowing Explainer.png)
 
 There are suggestions to AI auditing companies, but none of these have suggested creating an intermediary audit.
 ## Intro
 
 There are multiple avenues to unrecoverable bad futures resulting from AI systems. In this document, processes that cause unrecoverable bad futures resulting from AI are referred to as AI-enabled lock-in risks. The development of these risks can be categorised by their level of progress. For example, one categorisation might look like this:
 
-![Diagram showing how the development of risks might look](assets/images/risks.png)
+![Diagram showing how the development of risks might look](/assets/images/risks.png)
 
 Categorising risks can enable individuals who may be involved with organisations prone to such risks to learn how to identify and report on incidents where they believe a risk may be developing. In this document I propose an organisation which gives individuals and organisations a place to report on potential AI-enabled lock-in risk developments.
 
