@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alfie_lamerton
 github_username:  alamerton
 
+permalink: /blog/:year/:month/:day/:id/
+
 gems:
   - jekyll-assets
   - jekyll-seo-tag
