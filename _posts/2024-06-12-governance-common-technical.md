@@ -4,7 +4,7 @@ title: "One Intervention for the Development of AI Risk"
 ---
 A common goal of the current global policy actions is encouraging the ethical use of AI. One way that could be implemented is by creating an organisation to whom risky AI developments get reported.
 
-![Diagram showing how the organisation proposed might look](/assets/images/Governance Whistleblowing Explainer.png)
+![Diagram showing how the organisation proposed might look](/assets/images/Governance%20Whistleblowing%20Explainer.png)
 
 There are suggestions to AI auditing companies, but none of these have suggested creating an intermediary audit.
 ## Intro
