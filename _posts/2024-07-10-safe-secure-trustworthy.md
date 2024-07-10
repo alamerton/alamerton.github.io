@@ -1,3 +1,8 @@
+---
+layout: post
+title: "How Do We Actually Build Safe, Secure, and Trustworthy Systems?"
+---
+
 The most common intended intervention listed across the policy actions from the various documents in session 6 (The Global State of AI Policy) is the establishment of standards, tools, and practices to ensure the safety, security, and trustworthiness of AI systems.
 
 In order to imagine what an effective implementation of this somewhat vague intended intervention would look like, it is helpful to break the intervention into its constituent qualities: safety, security, and trustworthiness. For each of these components, one natural way to analyse the space of potential interventions is to imagine how each quality may fail to be realised, decompose the chain of events that could lead to this failure, and try to imagine what an effective intervention might look like from first principles at each place along this chain of events.
