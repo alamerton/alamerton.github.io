@@ -29,13 +29,18 @@ There currently exist no technical solutions for the prevention, identification 
 ### Approaches to Mitigate and Prevent Deepfakes
 ![Diagram illustrating the machine learning lifecycle and the placement of mitigation strategies within it](/assets/images/gan-in-lifecycle.png)
 Currently, there are no strong solutions for mitigating and preventing deepfakes, only ideas.
+
 **Detection Technology**
 - Technology for detecting deepfakes is in development, but there is not yet available for individuals or businesses.
+
 **Data Security**
 - Preventing bad actors from having access to content depicting potential target individuals would mean that they cannot use them to train models on this content.
+
 **Adversarial Attacks**
 - Encoding technology for compromising computer vision models into content depicting potential target individuals could prevent bad actors from being able to use the content to generate deepfakes
+
 **Legal Liability Measures**
 - The creation of penalties for the development or usage of deepfake technologies. The Preventing DeepFakes of Intimate Images Act is an example of this.
+
 **Education and Raising Awareness**
 - Some deepfakes are detectable by the naked eye, and so content which raises awareness with high reach could serve as a mitigation strategy, especially in lieu of any other promising approaches for the time being.
