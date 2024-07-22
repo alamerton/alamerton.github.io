@@ -16,6 +16,7 @@ One of the main pressures on this project was time. Due to my circumstances I ha
 1. I can't rush research. Despite trying to create short posts with specific content, the limitations in the quality of my research are evident. I am now more of the belief that good quality takes time.
 2. Practice is helpful for me. I saw my graphic design abilities improve over just a few iterations, mostly because I allowed myself to make mistakes and not overthink each creation. This let me focus on not making the same mistakes again and expanding on the things I liked about my diagrams.
 3. I now think it's a good idea to create explainers using colourblind-friendly colours. At first I struggled to find a palette I liked, and I'm still not exactly sure how to make a diagram that people with any class of colourblindness can see (it might have to be greyscale!), but I enjoyed exploring this. Shout out to Dana Bates for recommending this to me!
+
 ### What Did Not Go Well
 As I was restricted on time, much of my writing is incomplete. This is due to the short amount of time I gave to the project overall, and the fact that my time was also spent creating diagrams, exploring platforms, and split across creating multiple posts.
 
