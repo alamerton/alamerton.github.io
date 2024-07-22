@@ -12,10 +12,12 @@ In order to imagine what an effective implementation of this somewhat vague inte
 ### Failing to Make AI Systems Safe
 One way to AI systems pursuing harmful or unintended actions due to goal misspecification and misgeneralisation in new environments.
 ### Failing to Make AI Systems Secure
-Successful adversarial attacks are one way in which this could happen. If an entity was successful in attacking a model and, say, leaking 
+- Successful adversarial attacks are one way in which this could happen. If an entity was successful in attacking a model and, say, leaking 
 - Developing adversarial robustness methods and building them into frontier models.
+
 ### Failing to Make AI Systems Trustworthy
 - Bias falling into models during development pipeline
 - Evaluating models on biases
+
 ### Conclusion
 The aim of this post is to demonstrate one way to think about tackling AI policy actions in a pragmatic way. 
