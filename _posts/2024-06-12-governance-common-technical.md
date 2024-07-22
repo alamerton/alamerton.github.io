@@ -28,11 +28,11 @@ But what would the organisation do if it identifies a risk?
 4. There does not currently exist a system for reporting on AI-enabled lock-in risks, so the chance of risks developing without intervention is higher than if an effective version of such a system existed
 
 **What it doesn’t directly help with**
-There is not a direct mitigation being proposed here, but a framework for identifying and reporting on risks. Employing mitigation strategies would have more of an impact on reducing lock-in risks [I hope to be able to fill this part in more].
+There is not a direct mitigation being proposed here, but a framework for identifying and reporting on risks. Employing mitigation strategies would have more of an impact on reducing lock-in risks.
 
 ## How it Solves the Problem
 **Identifying developmental stages of lock-in risk**
-Risk reporting protocols would help individuals flag concerning developments, especially if developments could be categorised. [TODO: Research other risk definition strategies] One approach to categorising the development of a lock-in risk is by their level of progress. A well-defined set of developmental stages of AI-enabled lock-in risks can then be broadcast to organisations prone to instantiating or propagating such risks. The more coherent and concrete the stages, the more digestible they might be to individuals.
+Risk reporting protocols would help individuals flag concerning developments, especially if developments could be categorised. One approach to categorising the development of a lock-in risk is by their level of progress. A well-defined set of developmental stages of AI-enabled lock-in risks can then be broadcast to organisations prone to instantiating or propagating such risks. The more coherent and concrete the stages, the more digestible they might be to individuals.
 
 Identifying these stages could help identify correlations in avenues to risk. If every developmental stage from no risk to instantiated risk was identified for every unrecoverable bad future, we could extract the most commonly occurring risk profiles and target interventions at them. We may learn if there are underlying themes that characterise lock-in risk development, and design concrete strategies which target these themes.
 
